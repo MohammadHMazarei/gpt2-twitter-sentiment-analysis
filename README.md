@@ -12,7 +12,6 @@ This project fine-tunes OpenAI's GPT2 model for sentiment analysis on tweets. Th
 - Three-class sentiment classification (positive, negative, neutral)
 - Training monitoring with Weights & Biases (wandb)
 - Efficient training with gradient accumulation
-- Easy-to-use inference pipeline
 
 ## 📊 Dataset
 
