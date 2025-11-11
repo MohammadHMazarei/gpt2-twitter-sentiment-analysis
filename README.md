@@ -30,7 +30,7 @@ Number of Labels | 3
 Train Batch Size | 1
 Eval Batch Size | 1
 Gradient Accumulation Steps | 4
-ffective Batch Size | 4
+effective Batch Size | 4
 
 ## 🔍 Model Architecture
 
